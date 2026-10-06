@@ -1,5 +1,53 @@
-{"settings":{"whatsapp":""},"products":[
-{"id":1,"name":"Twin Turbo Pre-Workout","description":"بري وورك أوت: 7.5g سيترولين + 4g بيتا ألانين","fl":"Mango, Passion Fruit","specs":"7.5g:Citrulline Malate, 4g:Beta-Alanine","featured":true,"price":750,"offerPrice":650,"images":["hero.jpg"]},
-{"id":2,"name":"Creatine Monohydrate 300g","description":"كرياتين نقي 100% لزيادة القوة والأداء","fl":"","specs":"","featured":false,"price":850,"offerPrice":null,"images":[]},
-{"id":3,"name":"Whey Protein 2kg","description":"بروتين مصل اللبن عالي الجودة","fl":"Chocolate, Vanilla","specs":"","featured":false,"price":1900,"offerPrice":1750,"images":[]},
-{"id":4,"name":"BCAA 400g","description":"أحماض أمينية للاستشفاء السريع","fl":"","specs":"","featured":false,"price":600,"offerPrice":null,"images":[]}]}
+{
+ "settings": {
+  "whatsapp": ""
+ },
+ "products": [
+  {
+   "id": 1,
+   "name": "Twin Turbo Pre-Workout",
+   "description": "بري وورك أوت: 7.5g سيترولين + 4g بيتا ألانين",
+   "fl": "Mango, Passion Fruit",
+   "specs": "7.5g:Citrulline Malate, 4g:Beta-Alanine",
+   "featured": true,
+   "price": 750,
+   "offerPrice": 650,
+   "images": [
+    "hero.jpg"
+   ]
+  },
+  {
+   "id": 2,
+   "name": "Creatine Monohydrate 300g",
+   "description": "كرياتين نقي 100% لزيادة القوة والأداء",
+   "fl": "",
+   "specs": "",
+   "featured": false,
+   "price": 850,
+   "offerPrice": null,
+   "images": []
+  },
+  {
+   "id": 3,
+   "name": "Whey Protein 2kg",
+   "description": "بروتين مصل اللبن عالي الجودة",
+   "fl": "Chocolate, Vanilla",
+   "specs": "",
+   "featured": false,
+   "price": 1900,
+   "offerPrice": 1750,
+   "images": []
+  },
+  {
+   "id": 4,
+   "name": "BCAA 400g",
+   "description": "أحماض أمينية للاستشفاء السريع",
+   "fl": "",
+   "specs": "",
+   "featured": false,
+   "price": 600,
+   "offerPrice": null,
+   "images": []
+  }
+ ]
+}
