@@ -9,7 +9,7 @@
    "description": "بري وورك أوت: 7.5g سيترولين + 4g بيتا ألانين",
    "fl": "Mango, Passion Fruit",
    "specs": "7.5g:Citrulline Malate, 4g:Beta-Alanine",
-   "featured": true,
+   "featured": false,
    "price": 750,
    "offerPrice": 650,
    "images": [
@@ -49,7 +49,9 @@
    "featured": false,
    "price": 600,
    "offerPrice": null,
-   "images": []
+   "images": [
+    "uploads/1791317178945lvrky.jpg"
+   ]
   }
  ]
 }
