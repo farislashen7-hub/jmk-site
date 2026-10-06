@@ -12,9 +12,7 @@
    "featured": true,
    "price": 750,
    "offerPrice": 650,
-   "images": [
-    "hero.jpg"
-   ]
+   "images": []
   },
   {
    "id": 2,
